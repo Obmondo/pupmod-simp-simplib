@@ -4,7 +4,7 @@
   "author": "SIMP Team",
   "summary": "A collection of common SIMP functions, facts, and types",
   "license": "Apache-2.0",
-  "source": "https://github.com/simp/pupmod-simp-simplib",
+  "source": "https://github.com/Obmondo/pupmod-simp-simplib",
   "project_page": "https://github.com/simp/pupmod-simp-simplib",
   "issues_url": "https://github.com/simp/pupmod-simp-simplib/issues",
   "tags": [
